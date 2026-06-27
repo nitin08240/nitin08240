@@ -13,7 +13,6 @@
 🔍 Currently exploring **Generative AI & Agentic AI**
 🛠️ 87% model accuracy · 50K+ records cleaned · 35% API latency reduced — on live systems
 🧩 End-to-end ownership: data pipelines → ML models → full-stack apps → cloud deployment
-🏆 1st Place — TechWizard Hackathon | Selected Speaker — IIT Roorkee International Conference
 
 ---
 
